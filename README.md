@@ -1,16 +1,23 @@
-### Hi there 👋
+<h2> Hi, I'm Kirill! <img src="https://media.giphy.com/media/H1jSPXCJmo8AZi3gdP/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/3og0IGFLpiRNlb3pg4/giphy.gif" width="230">
+<p><em>Frontend Developer at <a href="https://vk.com/vrabote_me">VRabote</a><img src="https://media.giphy.com/media/Wp6BRn60B4jaUwW2eK/giphy.gif" width="30">
+</em></p>
 
-<!--
-**cyeibs/cyeibs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- [![Linkedin: tvsetkov_kirill](https://img.shields.io/badge/-tsvetkov_kirill-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tvsetkov_kirill/)](https://www.linkedin.com/in/tsvetkov_kirill/) -->
+[![GitHub cyeibs](https://img.shields.io/badge/GitHub-cyeibs-informational)](https://github.com/cyeibs)
+[![Instagram: tsvetkov_kirill](https://img.shields.io/badge/instagram-tsvetkov__kirill-blueviolet)](https://www.instagram.com/tsvetkov_kirill/)
+[![Telegram: tsvetkov_kirill](https://img.shields.io/badge/telegram-tsvetkov__kirill-blue)](https://t.me/tsvetkov_kirill)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### <img src="https://media.giphy.com/media/l4FGI8GoTL7N4DsyI/giphy.gif" width="50"> Who am I..  
+
+```javascript
+const profile = {
+  pronouns: "he" | "him",
+  code: [Javascript, HTML, CSS],
+  tools: [React, Redux, Node, Styled-Components, Jest, Material-UI],
+  more: [snowboarder, cooker]
+}
+```
+
+<img src="https://media.giphy.com/media/lq3d3sUI1C90SE9kaP/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
