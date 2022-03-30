@@ -1,6 +1,6 @@
 <h2> Hi, I'm Kirill! <img src="https://media.giphy.com/media/H1jSPXCJmo8AZi3gdP/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/3og0IGFLpiRNlb3pg4/giphy.gif" width="230">
-<p><em>Frontend Developer at <a href="https://vk.com/vrabote_me">VRabote</a><img src="https://media.giphy.com/media/Wp6BRn60B4jaUwW2eK/giphy.gif" width="30">
+<p><em>Frontend Developer at <a href="https://www.samsungsds.com/eu/ai-rpa/brity-rpa.html">Samsung SDS</a><img src="https://media.giphy.com/media/Wp6BRn60B4jaUwW2eK/giphy.gif" width="30">
 </em></p>
 
 <!-- [![Linkedin: tvsetkov_kirill](https://img.shields.io/badge/-tsvetkov_kirill-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tvsetkov_kirill/)](https://www.linkedin.com/in/tsvetkov_kirill/) -->
