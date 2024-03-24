@@ -14,8 +14,8 @@
 ```javascript
 const profile = {
   pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS],
-  tools: [React, Redux, Node, Styled-Components, Jest, Material-UI],
+  code: [Javascript, TypeScript, HTML, CSS],
+  tools: [React, Redux-Toolkit, TanStack Query, Node, Styled-Components, Material-UI],
   more: [snowboarder, cooker]
 }
 ```
