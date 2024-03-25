@@ -1,5 +1,5 @@
 <h2> Hi, I'm Kirill! <img src="https://media.giphy.com/media/H1jSPXCJmo8AZi3gdP/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/3og0IGFLpiRNlb3pg4/giphy.gif" width="230">
+<img align='right' src="https://images.squarespace-cdn.com/content/6306aaf3653fde34203ac5c0/1661384021169-RD0VIJ3H6MZ95GWAEFZZ/Gojo.gif?content-type=image%2Fgif" width="230">
 <p><em>Frontend Developer at <a href="https://www.samsungsds.com/eu/ai-rpa/brity-rpa.html">Samsung SDS</a><img src="https://media.giphy.com/media/Wp6BRn60B4jaUwW2eK/giphy.gif" width="30">
 </em></p>
 
